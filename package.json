@@ -1,0 +1,17 @@
+{
+  "author": "Elliot Chong <elliot@elliotjameschong.com> (http://blog.elliotjameschong.com)",
+  "name": "eventdecorator",
+  "description": "Allows the decoration of objects as EventEmitters",
+  "version": "0.0.1",
+  "homepage": "https://github.com/echong/eventdecorator.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/echong/eventdecorator.js.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
